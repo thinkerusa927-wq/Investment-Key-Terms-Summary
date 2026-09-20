@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investment Key Terms Summary"
+  short_description: "Create concise CEO summaries from final SSA, SHA, and SPA files"
+  default_prompt: "Use $create-investment-key-terms-summary to turn the attached transaction documents into a concise CEO-facing Key Terms Summary."
